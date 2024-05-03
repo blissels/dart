@@ -1,0 +1,5 @@
+import 'package:input_output/input_output.dart' as input_output;
+
+vold main(list<String> arguments) {
+  print('Hello world: $(input_output.calculate()}!');
+}
